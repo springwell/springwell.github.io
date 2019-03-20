@@ -27,7 +27,7 @@
 
 ## Skills
 ### Misc
-- Putting flower on sashimi(raw-fish) plate.
+- Putting flowers on sashimi(raw-fish) plates.
 
 ## Link
 - https://github.com/springwell
