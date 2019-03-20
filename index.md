@@ -1,7 +1,7 @@
 ## About
-- personal webpage for springwell - Yusaku Sawai.
-- crying out love, in the center of the private cloud
-- under construction whole year.
+- Personal webpage for springwell - Yusaku Sawai.
+- Crying out love, in the center of the private cloud
+- Under construction whole year.
 
 
 ## Job Experience
@@ -9,7 +9,7 @@
 - Operation/Development of OpenStack-based Private Cloud
 
 ### Keio Univ. - ERNS Advisor (2016.5-2018.3)
-- Engaged operation of ERNS(Evolving Research Network System) - network system in graduate school.
+- Operation of ERNS(Evolving Research Network System) - network system in graduate school.
 - Experience in building & operation of linux servers in ERNS
   - Ex. Email, LDAP, VPS, DHCP, OpenVPN
 
