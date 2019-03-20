@@ -32,4 +32,4 @@
 
 ## Links
 - [twitter](https://github.com/springwell)
-- [blog](http://springwell.hatenablog.com))
+- [hatena blog](http://springwell.hatenablog.com)
