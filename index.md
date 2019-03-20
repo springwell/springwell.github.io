@@ -34,7 +34,7 @@
 - Participated MWSCup(Malware Workshop Cup) as a member of team KKKK (Keio Univ. & Kyushu Institute of Tech.)
 
 ### B.A. in Environment and Information Studies - Keio Univ. (2012.4-2016.3)
-- Researched network security and container-based virtualization technology
+- Researched network security and cloud technology(container, virtualization)
 
 ## Skills
 ### Misc
