@@ -8,7 +8,7 @@
 - Operation/Development of OpenStack-based Private Cloud
 
 ### Keio Univ. - ERNS Advisor (2016.5-2018.3)
-- Engaged operation of ERNS(Evolving Research Network System) - network system in graduate school.
+- Engaged operation of ERNS(Evolving Research Network System) - network system for graduate school.
 - Experience in building & operation of linux servers in ERNS
   - Ex. Email, LDAP, VPS, DHCP, OpenVPN
 
