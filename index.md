@@ -29,6 +29,7 @@
 ## Education
 
 ### Master in Media and Governance - Grad. School of Keio Univ. (2016.4-2018.3)
+- Murai Lab. - Kumo, Sigma research group.
 - Completed IT Specialist(Security) Course.
 - Proposed and implemented the system which provides reputation of IP Addresses with blockchain.
 - Participated MWSCup(Malware Workshop Cup) as a member of team KKKK (Keio Univ. & Kyushu Institute of Tech.)
