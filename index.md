@@ -4,7 +4,7 @@
 - Under construction whole year.
 
 ## Job Experience
-### A certain Corp. - Infrastructure Engineer (2018.4-Present)
+### A Certain Corp. - Infrastructure Engineer (2018.4-Present)
 - Operation/Development of OpenStack-based Private Cloud
 
 ### Keio Univ. - ERNS Advisor (2016.5-2018.3)
@@ -31,4 +31,5 @@
 - Putting flowers on sashimi(raw-fish) plates.
 
 ## Links
-- https://github.com/springwell
+- [twitter](https://github.com/springwell)
+- [blog](http://springwell.hatenablog.com))
